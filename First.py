@@ -21,3 +21,4 @@ my_car.start()
 my_car.stop()
 
 print("CHANGED CODE, FOR THIRD COMMIT")
+print("For git diff")
